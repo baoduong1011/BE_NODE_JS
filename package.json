@@ -1,0 +1,31 @@
+{
+  "name": "node_js_be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baoduong1011/BE_NODE_JS.git"
+  },
+  "keywords": [
+    "BE",
+    "BE",
+    "NodeJs",
+    "NodeJs"
+  ],
+  "author": "baoduong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baoduong1011/BE_NODE_JS/issues"
+  },
+  "homepage": "https://github.com/baoduong1011/BE_NODE_JS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.10"
+  }
+}
