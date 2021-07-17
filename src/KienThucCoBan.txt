@@ -1,0 +1,12 @@
+Hosting và Local Host chính là 1 chỉ khác nhau ở Local Host là chạy trên 1 máy của ta đang code
+-> Host là nơi lưu trữ dữ liệu 
+
+Web Server được tạo ra khi ta khởi tạo một dự án : npm start
+
+
+
+
+
+
+
+
